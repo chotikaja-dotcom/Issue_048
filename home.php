@@ -1,1 +1,1 @@
-Fix bug for issue2
+echo "Fix bug in issue 2";
