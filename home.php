@@ -1,1 +1,1 @@
-<?php echo "Hello World"; ?>
+echo "Fix bug in issue 2";
